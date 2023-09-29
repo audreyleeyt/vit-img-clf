@@ -1,0 +1,310 @@
+/home/barry/Software/anaconda3/envs/pytorch_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and will be removed in 0.15, please use 'weights' instead.
+  warnings.warn(
+/home/barry/Software/anaconda3/envs/pytorch_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and will be removed in 0.15. The current behavior is equivalent to passing `weights=VGG19_Weights.IMAGENET1K_V1`. You can also use `weights=VGG19_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+/home/barry/Software/anaconda3/envs/pytorch_env/lib/python3.9/site-packages/torchvision/transforms/transforms.py:1427: UserWarning: The parameter 'resample' is deprecated since 0.12 and will be removed in 0.14. Please use 'interpolation' instead.
+  warnings.warn(
+/home/barry/Software/anaconda3/envs/pytorch_env/lib/python3.9/site-packages/torchvision/transforms/transforms.py:1442: UserWarning: The parameter 'fillcolor' is deprecated since 0.12 and will be removed in 0.14. Please use 'fill' instead.
+  warnings.warn(
+Epoch 0/49
+----------
+Elapsed time:  0.0 m 0.0s
+train Loss: 2.7135 Acc: 0.4055
+valid Loss: 0.7036 Acc: 0.8170
+
+Epoch 1/49
+----------
+Elapsed time:  2.0 m 31.0s
+train Loss: 0.8352 Acc: 0.7713
+valid Loss: 0.4386 Acc: 0.8800
+
+Epoch 2/49
+----------
+Elapsed time:  4.0 m 57.0s
+train Loss: 0.5177 Acc: 0.8541
+valid Loss: 0.3523 Acc: 0.8970
+
+Epoch 3/49
+----------
+Elapsed time:  7.0 m 24.0s
+train Loss: 0.3444 Acc: 0.9025
+valid Loss: 0.3133 Acc: 0.9180
+
+Epoch 4/49
+----------
+Elapsed time:  9.0 m 50.0s
+train Loss: 0.2371 Acc: 0.9334
+valid Loss: 0.3098 Acc: 0.9200
+
+Epoch 5/49
+----------
+Elapsed time:  12.0 m 16.0s
+train Loss: 0.1676 Acc: 0.9504
+valid Loss: 0.2449 Acc: 0.9400
+
+Epoch 6/49
+----------
+Elapsed time:  14.0 m 42.0s
+train Loss: 0.1224 Acc: 0.9651
+valid Loss: 0.2464 Acc: 0.9370
+
+Epoch 7/49
+----------
+Elapsed time:  17.0 m 8.0s
+train Loss: 0.0694 Acc: 0.9830
+valid Loss: 0.2122 Acc: 0.9460
+
+Epoch 8/49
+----------
+Elapsed time:  19.0 m 35.0s
+train Loss: 0.0571 Acc: 0.9864
+valid Loss: 0.2125 Acc: 0.9470
+
+Epoch 9/49
+----------
+Elapsed time:  22.0 m 1.0s
+train Loss: 0.0516 Acc: 0.9890
+valid Loss: 0.2148 Acc: 0.9450
+
+Epoch 10/49
+----------
+Elapsed time:  24.0 m 27.0s
+train Loss: 0.0486 Acc: 0.9890
+valid Loss: 0.2160 Acc: 0.9450
+
+Epoch 11/49
+----------
+Elapsed time:  26.0 m 54.0s
+train Loss: 0.0432 Acc: 0.9908
+valid Loss: 0.2174 Acc: 0.9460
+
+Epoch 12/49
+----------
+Elapsed time:  29.0 m 20.0s
+train Loss: 0.0416 Acc: 0.9906
+valid Loss: 0.2150 Acc: 0.9460
+
+Epoch 13/49
+----------
+Elapsed time:  31.0 m 47.0s
+train Loss: 0.0393 Acc: 0.9920
+valid Loss: 0.2146 Acc: 0.9470
+
+Epoch 14/49
+----------
+Elapsed time:  34.0 m 14.0s
+train Loss: 0.0374 Acc: 0.9926
+valid Loss: 0.2154 Acc: 0.9460
+
+Epoch 15/49
+----------
+Elapsed time:  36.0 m 40.0s
+train Loss: 0.0361 Acc: 0.9932
+valid Loss: 0.2163 Acc: 0.9450
+
+Epoch 16/49
+----------
+Elapsed time:  39.0 m 6.0s
+train Loss: 0.0370 Acc: 0.9925
+valid Loss: 0.2159 Acc: 0.9450
+
+Epoch 17/49
+----------
+Elapsed time:  41.0 m 33.0s
+train Loss: 0.0381 Acc: 0.9919
+valid Loss: 0.2160 Acc: 0.9450
+
+Epoch 18/49
+----------
+Elapsed time:  43.0 m 59.0s
+train Loss: 0.0355 Acc: 0.9937
+valid Loss: 0.2171 Acc: 0.9450
+
+Epoch 19/49
+----------
+Elapsed time:  46.0 m 25.0s
+train Loss: 0.0353 Acc: 0.9935
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 20/49
+----------
+Elapsed time:  48.0 m 52.0s
+train Loss: 0.0348 Acc: 0.9933
+valid Loss: 0.2166 Acc: 0.9460
+
+Epoch 21/49
+----------
+Elapsed time:  51.0 m 18.0s
+train Loss: 0.0351 Acc: 0.9937
+valid Loss: 0.2165 Acc: 0.9460
+
+Epoch 22/49
+----------
+Elapsed time:  53.0 m 44.0s
+train Loss: 0.0363 Acc: 0.9924
+valid Loss: 0.2165 Acc: 0.9460
+
+Epoch 23/49
+----------
+Elapsed time:  56.0 m 10.0s
+train Loss: 0.0343 Acc: 0.9932
+valid Loss: 0.2165 Acc: 0.9460
+
+Epoch 24/49
+----------
+Elapsed time:  58.0 m 37.0s
+train Loss: 0.0357 Acc: 0.9926
+valid Loss: 0.2166 Acc: 0.9460
+
+Epoch 25/49
+----------
+Elapsed time:  61.0 m 2.0s
+train Loss: 0.0360 Acc: 0.9922
+valid Loss: 0.2167 Acc: 0.9460
+
+Epoch 26/49
+----------
+Elapsed time:  63.0 m 28.0s
+train Loss: 0.0367 Acc: 0.9922
+valid Loss: 0.2167 Acc: 0.9460
+
+Epoch 27/49
+----------
+Elapsed time:  65.0 m 54.0s
+train Loss: 0.0349 Acc: 0.9931
+valid Loss: 0.2167 Acc: 0.9460
+
+Epoch 28/49
+----------
+Elapsed time:  68.0 m 21.0s
+train Loss: 0.0353 Acc: 0.9935
+valid Loss: 0.2167 Acc: 0.9460
+
+Epoch 29/49
+----------
+Elapsed time:  70.0 m 46.0s
+train Loss: 0.0363 Acc: 0.9929
+valid Loss: 0.2167 Acc: 0.9460
+
+Epoch 30/49
+----------
+Elapsed time:  73.0 m 13.0s
+train Loss: 0.0361 Acc: 0.9929
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 31/49
+----------
+Elapsed time:  75.0 m 39.0s
+train Loss: 0.0348 Acc: 0.9934
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 32/49
+----------
+Elapsed time:  78.0 m 6.0s
+train Loss: 0.0357 Acc: 0.9929
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 33/49
+----------
+Elapsed time:  80.0 m 33.0s
+train Loss: 0.0345 Acc: 0.9930
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 34/49
+----------
+Elapsed time:  82.0 m 59.0s
+train Loss: 0.0367 Acc: 0.9925
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 35/49
+----------
+Elapsed time:  85.0 m 24.0s
+train Loss: 0.0359 Acc: 0.9929
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 36/49
+----------
+Elapsed time:  87.0 m 50.0s
+train Loss: 0.0374 Acc: 0.9923
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 37/49
+----------
+Elapsed time:  90.0 m 17.0s
+train Loss: 0.0354 Acc: 0.9930
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 38/49
+----------
+Elapsed time:  92.0 m 43.0s
+train Loss: 0.0354 Acc: 0.9931
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 39/49
+----------
+Elapsed time:  95.0 m 10.0s
+train Loss: 0.0373 Acc: 0.9923
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 40/49
+----------
+Elapsed time:  97.0 m 36.0s
+train Loss: 0.0366 Acc: 0.9919
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 41/49
+----------
+Elapsed time:  100.0 m 1.0s
+train Loss: 0.0358 Acc: 0.9929
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 42/49
+----------
+Elapsed time:  102.0 m 28.0s
+train Loss: 0.0358 Acc: 0.9926
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 43/49
+----------
+Elapsed time:  104.0 m 54.0s
+train Loss: 0.0351 Acc: 0.9930
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 44/49
+----------
+Elapsed time:  107.0 m 21.0s
+train Loss: 0.0352 Acc: 0.9933
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 45/49
+----------
+Elapsed time:  109.0 m 47.0s
+train Loss: 0.0347 Acc: 0.9933
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 46/49
+----------
+Elapsed time:  112.0 m 14.0s
+train Loss: 0.0358 Acc: 0.9921
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 47/49
+----------
+Elapsed time:  114.0 m 40.0s
+train Loss: 0.0354 Acc: 0.9928
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 48/49
+----------
+Elapsed time:  117.0 m 7.0s
+train Loss: 0.0362 Acc: 0.9921
+valid Loss: 0.2168 Acc: 0.9460
+
+Epoch 49/49
+----------
+Elapsed time:  119.0 m 33.0s
+train Loss: 0.0359 Acc: 0.9929
+valid Loss: 0.2168 Acc: 0.9460
+
+Training complete in 121.000000m 59.680187s
+Best val Acc: 0.947000
